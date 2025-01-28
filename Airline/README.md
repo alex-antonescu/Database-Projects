@@ -16,4 +16,4 @@ This repository contains a collection of database projects I developed to design
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Database-Projects.git
+   git clone https://github.com/alex-antonescu/Database-Projects.git
